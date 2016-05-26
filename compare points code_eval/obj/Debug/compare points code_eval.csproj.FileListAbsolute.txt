@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\compare points code_eval\compare points code_eval\bin\Debug\compare points code_eval.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\compare points code_eval\compare points code_eval\obj\Debug\compare points code_eval.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\compare points code_eval\compare points code_eval\bin\Debug\compare points code_eval.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\compare points code_eval\compare points code_eval\bin\Debug\compare points code_eval.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\compare points code_eval\compare points code_eval\obj\Debug\compare points code_eval.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\compare points code_eval\compare points code_eval\obj\Debug\compare points code_eval.pdb
